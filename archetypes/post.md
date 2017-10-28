@@ -1,14 +1,12 @@
 +++
 title = "{{ replace .TranslationBaseName "-" " " | title }}"
 date = {{ .Date }}
-description = "Thank you for choosing After Dark."
+description = ""
 draft = true
 toc = false
-categories = ["technology"]
-tags = ["hello", "world"]
-images = [
-  "https://source.unsplash.com/category/technology/1600x900"
-] # overrides the site-wide open graph image
+categories = ["life"]
+tags = ["blog"]
+images = [] # overrides the site-wide open graph image
 +++
 
 Before you continue, please take a moment to configure your archetypes.
