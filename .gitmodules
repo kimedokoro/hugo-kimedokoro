@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = git@kimedokoro.github.com:kimedokoro/kimedokoro.github.io.git
