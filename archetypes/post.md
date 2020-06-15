@@ -2,9 +2,9 @@
 title = "{{ replace .TranslationBaseName "-" " " | title }}"
 date = {{ .Date }}
 description = ""
-draft = true
+draft = false
 toc = false
 categories = ["にっき"]
-tags = ["しずか"]
+tags = ["令和"]
 images = []
 +++

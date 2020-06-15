@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = git@kimedokoro.github.com:kimedokoro/kimedokoro.github.io.git
+[submodule "themes/after-dark"]
+	path = themes/after-dark
+	url = git@kimedokoro.github.com:kimedokoro/after-dark.git
